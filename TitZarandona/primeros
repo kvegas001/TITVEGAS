@@ -1,0 +1,11 @@
+Primeros pasos:
+
+git init
+
+git clone http://ladirecciondelrepositorio
+
+Metes los archivos que quieras:
+	git add archivo
+	git commit -m "Nombre del Commit"
+	git push -u origin master
+Te autenticas y listo.
